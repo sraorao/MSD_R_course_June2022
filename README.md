@@ -5,8 +5,8 @@
 This interactive online MSD Skills training course is aimed at MSD postgraduate research students and staff with minimal or no programming experience who want to perform basic data analysis in R and get familiar with programming environment.
 
 You are expected to attend two sessions:
-* 26th April @ 9.30am - 1.00pm
-* 04th May @ 10.00am - 1.00pm
+* 22nd June @ 1.00pm - 4.00pm
+* 29th June @ 1.00pm - 4.00pm
 
 ## COURSE AIM
 This course is aimed at those with minimal or no programming experience to perform basic data analysis in R and get familiar with the programming environment. By the end of this module, you will be able to explore your own data in R including basic statistics, plotting, and data reorganisation.
