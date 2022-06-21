@@ -12,8 +12,7 @@ airquality$Ozone
 which_rows_complete = complete.cases(airquality)
 airquality[which_rows_complete, ]
 
-ozone_without_missing = na.omit(airquality$Ozone)
-
+ozone_without_missing = na.omit(airquality) # equivalent to the above line
 
 #### FILTERING data ####
 # Subsetting by logical vectors comes in handy here
