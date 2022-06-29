@@ -45,7 +45,7 @@ migmorph_cl1 = migmorph[migmorph$cluster == "1", ]
 migmorph_cl6 = migmorph[migmorph$cluster == "6", ]
 t.test(migmorph_cl1$elongatedness, migmorph_cl6$elongatedness)
 
-# Q: Perform a T test with Welch correction
+# Q: Perform a T test without Welch correction
 # hint: look up the help for t.test()
 
 
